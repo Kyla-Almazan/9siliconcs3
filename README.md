@@ -1,3 +1,10 @@
+CS3-Portfolio/
+│
+├── README.md
+│
+└── quarter1/
+└── ctskillsSiliconAlmazan.md
+
 # Computer Science 3 Portfolio
 ## Student Information
 **Name:** Jahanna Kyla I. Almazan
