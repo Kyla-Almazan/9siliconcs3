@@ -1,8 +1,11 @@
 # Computational Thinking Exercise
 ## [Smart School Canteen Queue]
 **Name:** Jahanna Kyla I. Almazan
+
 **Section:** 9 - Silicon
+
 **Last Name:** Almazan
+
 **Date:** August 11, 2026
 
 ---
