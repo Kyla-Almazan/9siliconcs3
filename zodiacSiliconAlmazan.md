@@ -1,15 +1,15 @@
-#Chinese Zodiac Calculator
+#Chinese Zodiac Calculator  
 
-birth_year = input("Enter your birth year: ")
+birth_year = input("Enter your birth year: ")  
 
-try:
-    birth_year = int(birth_year)
+try:  
+    birth_year = int(birth_year)  
 except ValueError:
-    print("Invalid input! Please enter a whole number.")
+    print("Invalid input! Please enter a whole number.")  
     exit()
 
-if birth_year < 1900:
-    print("Invalid Year, it should not be earlier than 1900.")
+if birth_year < 1900:  
+    print("Invalid Year, it should not be earlier than 1900.")  
     exit()
 
 zodiac_signs = [
