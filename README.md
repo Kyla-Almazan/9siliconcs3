@@ -11,4 +11,5 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](quarter1/ctskillsSiliconAlmazan.md)
+
 [View my Chinese Zodiac](zodiacSiliconAlmazan.md)
