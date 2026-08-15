@@ -38,26 +38,26 @@ The school canteen has long, slow queues during break time because ordering, pay
 ### Selected Sub-Problem
 Calculate total cost and payment process automatically.
 ### Pseudocode
-START
-Display menu with item names and prices
-SET total_cost = 0
-REPEAT
-Ask student to select an item
-Add item price to total_cost
-Ask if they want another item
-UNTIL no more items
-
-Display total_cost
-Ask for amount paid
-Compute change = amount paid - total_cost
- 
-IF change >= 0 THEN
-Display "Please pay: " + total_cost
-Display "Change: " + change
-Mark order as PAID
-ELSE
-Display "Insufficient amount. Please try again."
-END IF
-END
+START  
+Display menu with item names and prices  
+SET total_cost = 0  
+REPEAT  
+Ask student to select an item  
+Add item price to total_cost  
+Ask if they want another item  
+UNTIL no more items  
+  
+Display total_cost  
+Ask for amount paid  
+Compute change = amount paid - total_cost  
+  
+IF change >= 0 THEN  
+Display "Please pay: " + total_cost  
+Display "Change: " + change  
+Mark order as PAID  
+ELSE  
+Display "Insufficient amount. Please try again."   
+END IF  
+END  
 
 ---
