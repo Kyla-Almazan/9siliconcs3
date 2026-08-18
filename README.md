@@ -12,4 +12,4 @@
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](quarter1/ctskillsSiliconAlmazan.md)
 
-[View my Chinese Zodiac](zodiacSiliconAlmazan.md)
+[View my Chinese Zodiac](quarter1/zodiacSiliconAlmazan.md)
