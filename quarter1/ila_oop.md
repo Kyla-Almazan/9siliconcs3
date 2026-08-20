@@ -7,7 +7,7 @@ We keep all product details such as name, price, and stock, plus actions like up
 
 Code:   
 class Product:  
-    def __init_(self, name, price, stock):  
+    def __init__(self, name, price, stock):  
         self.__name = name  
         self.__price = price  
         self.__stock = stock  
