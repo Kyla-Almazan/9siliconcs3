@@ -13,3 +13,5 @@
 [View my Computational Thinking Exercise](quarter1/ctskillsSiliconAlmazan.md)
 
 [View my Chinese Zodiac](quarter1/zodiacSiliconAlmazan.md)
+
+[View my ILA 3-1: Applying the Four Pillars of OOP](quarter1/ila_oop.md)
