@@ -18,7 +18,8 @@
 | printDetails() | It displays all stored information about this melody |
 
 ## Class Diagram
-![Class Diagram](/Users/jahanna.almazan/Downloads/MELODY.png)
+![Class Diagram](<img width="2245" height="1587" alt="MELODY" src="https://github.com/user-attachments/assets/e068d790-3e0d-4453-bf5c-c0b2b89ac364" />
+)
 
 ## Design Explanation
 ### Why did you choose this class?
