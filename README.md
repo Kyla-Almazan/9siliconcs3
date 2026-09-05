@@ -18,4 +18,4 @@
 
 [View my OOPActivity](quarter1/classObjectUML.md)
 
-[View my OOPActivity: Part 2](quarter1/classAttributesMethod.md)
+[View my OOPActivity: Part 2](quarter1/classAttributesMethods.md)
