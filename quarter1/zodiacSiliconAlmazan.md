@@ -38,3 +38,4 @@ result = zodiac_signs[sign_index]
 #To get output  
 print(f"Your Chinese Zodiac Sign is: {result}")  
 
+![Output](images/zodiac.png)
