@@ -17,3 +17,5 @@
 [View my ILA 3-1: Applying the Four Pillars of OOP](quarter1/ila_oop.md)
 
 [View my OOPActivity](quarter1/classObjectUML.md)
+
+[View my OOPActivity: Part 2](quarter1/classAttributesMethod.md)
