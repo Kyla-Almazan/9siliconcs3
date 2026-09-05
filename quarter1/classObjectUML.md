@@ -18,7 +18,7 @@
 | printDetails() | It displays all stored information about this melody |
 
 ## Class Diagram
-![Class Diagram](/Users/jahanna.almazan/Downloads/MELODY.png)
+![Class Diagram](images/classDiagram.png)
 
 ## Design Explanation
 ### Why did you choose this class?
