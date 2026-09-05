@@ -2,7 +2,7 @@
 
 ## Previous Design
 Link to my previous activity:
-[classObjectUML.md](quarter1/classObjectUML.md)
+[classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
 I renamed the property like to liked for clarity and consistency with the method name setLike(). No other major changes were needed since the original design fits well.
@@ -19,7 +19,7 @@ I renamed the property like to liked for clarity and consistency with the method
 ![Class Diagram](images/classDiagramSG5.png)
 
 ## Python Implementation
-[View Python Source](quarter1/classImplementation.py)
+[View Python Source](classImplementation.py)
 ## Test Run
 ![Test Run](images/classTestRun.png)
 ## Object Diagram
