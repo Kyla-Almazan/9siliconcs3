@@ -7,18 +7,22 @@
 
 ## Existing Class
 Class: Melody
+
 Description: It represents a single musical piece. It stores details like title, creator, length, and whether it is marked as liked. It also defines actions you can do with the song.
 
 ## New Related Class
 Class: MusicCollection
+
 Description: A personal folder or group that gathers and organizes melodies you love or want to keep together. It holds and manages your songs in one place.
 
 ## Association
 Relationship: MusicCollection includes Melody
+
 Explanation: A music collection exists to hold songs. One collection can contain many melodies, and each melody belongs to that collection.
 
 ## Multiplicity
 Multiplicity: 1..* (One-to-Many)
+
 Explanation: There is one collection, and it can hold one or more melodies inside it. This fits because you have one collection, but you can always add more songs to it.
 
 ## UML Class Relationship Diagram
