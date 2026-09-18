@@ -16,8 +16,10 @@
 ### Applying the Four Pillars of OOP
 [View my ILA 3-1: Applying the Four Pillars of OOP](quarter1/ila_oop.md)
 ### OOP Activities
-[View my OOPActivity](quarter1/classObjectUML.md)
+[View my OOPActivity: Part I](quarter1/classObjectUML.md)
 
-[View my OOPActivity: Part 2](quarter1/classAttributesMethods.md)
+[View my OOPActivity: Part II](quarter1/classAttributesMethods.md)
 
-[View my OOPActivity: Part 3](quarter1/classRelationships.md)
+[View my OOPActivity: Part III](quarter1/classRelationships.md)
+
+[View my OOPActivity: Part IV](quarter1/advancedRelationships.md)
