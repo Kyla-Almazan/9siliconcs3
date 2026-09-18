@@ -2,7 +2,9 @@
 
 ## Previous Activities
 [Part I - Classes & Objects](classObjectUML.md)
+
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
+
 [Part III - Class Relationships](classRelationships.md)
 
 ## Existing System Description:
@@ -10,6 +12,7 @@ My system has two classes. Melody represents one song with title, creator, lengt
 
 ### What classes currently exist in your system?
 Class 1: Melody
+
 Class 2: MusicCollection
 
 ### What problem or limitation exists in your current design?
@@ -17,7 +20,9 @@ Class 2: MusicCollection
 
 ## Inheritance Relationship
 Parent: Melody
+
 Child: Song
+
 Explanation: A Song IS-A Melody because it is still a musical piece with a title, creator, length, and liked status. It simply adds more specific details like album name and year of release. Every Song is a Melody but not every Melody has album information.
 
 ## Inheritance UML
@@ -28,7 +33,8 @@ Explanation: A Song IS-A Melody because it is still a musical piece with a title
 |---|---|---|
 | Composition | MusicCollection | Melody |
 
-Explanation: MusicCollection strongly owns its melodies. If you delete the collection, all the melodies inside it are removed from the system too. They do not exist separately oustide that collection in this design.
+### Explanation:
+MusicCollection owns its melodies. If you delete the collection, all the melodies inside it are removed from the system too. They do not exist separately oustide that collection in this design.
 
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
