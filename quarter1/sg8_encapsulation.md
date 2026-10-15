@@ -1,5 +1,7 @@
-![Code](images/SG 8_SSofCode.png)
+### CODE:
+![Code](images/SG8_SSofCode.png)
 
 =====
 
-1[Output](images/SG 8_SSofOutput.png)
+### OUTPUT:
+![Output](images/SG8_SSofOutput.png)
