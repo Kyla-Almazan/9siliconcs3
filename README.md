@@ -23,3 +23,7 @@
 [View my OOPActivity: Part III](quarter1/classRelationships.md)
 
 [View my OOPActivity: Part IV](quarter1/advancedRelationships.md)
+### SG 8: Encapsulation
+[View my SG 8: Encapsulation](quarter1/sg8_encapsulation.py)
+
+[View the documentation](quarter1/sg8_encapsulation.md)
