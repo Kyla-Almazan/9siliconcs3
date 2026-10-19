@@ -31,6 +31,6 @@
 
 [View the documentation](quarter1/sg8_encapsulation.md)
 ### SG 9: Inheritance
-[View my FA 1 in SG 9: Inheritance](quarter1/sg8_encapsulation.py)
+[View my FA 1 in SG 9: Inheritance](quarter1/sg9_inheritance.py)
 
 [View the documentation](quarter1/sg9_inheritance.md)
