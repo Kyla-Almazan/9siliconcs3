@@ -19,9 +19,9 @@ class BankAccount:
 
 a = BankAccount(12345, 1000.0)
 print(f"\nAccount 1")
-print(f"Account Number: {a.account_number}")
-print(f"Balance: {a.balance:.2f}")
+print(f"Account Number: {a.get_account_number}")
+print(f"Balance: {a.get_balance:.2f}")
 print(f"\nUpdate balance to -100")
 a.set_balance(-100)
-print(f"Account Number: {a.account_number}")
-print(f"Balance: {a.balance:.2f}")
+print(f"Account Number: {a.get_account_number}")
+print(f"Balance: {a.get_balance:.2f}")
