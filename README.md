@@ -27,10 +27,14 @@
 ---
 # Quarter 2
 ### SG 8: Encapsulation
-[View my SG 8: Encapsulation](quarter1/sg8_encapsulation.py)
+[View my SG 8: Encapsulation](quarter2/sg8_encapsulation.py)
 
-[View the documentation](quarter1/sg8_encapsulation.md)
+[View the documentation](quarter2/sg8_encapsulation.md)
 ### SG 9: Inheritance
-[View my FA 1 in SG 9: Inheritance](quarter1/sg9_inheritance.py)
+[View my FA 1 in SG 9: Inheritance](quarter2/sg9_inheritance.py)
 
-[View the documentation](quarter1/sg9_inheritance.md)
+[View the documentation](quarter2/sg9_inheritance.md)
+### SG 10: Method Overriding
+[View my SG 10: Method Overriding](quarter2/sg10_methodoverriding.py)
+
+[View the documentation](quarter2/sg10_methodoverriding.md)
