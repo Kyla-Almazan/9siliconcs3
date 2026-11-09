@@ -38,3 +38,9 @@
 [View my SG 10: Method Overriding](quarter2/sg10_methodoverriding.py)
 
 [View the documentation](quarter2/sg10_methodoverriding.md)
+### SG 11: Polymorphism
+[View my SG 11: Polymorphism Activity 1](quarter2/sg11_polymorphism.activity1.py)
+
+[View the documentation for Activity 1](quarter2/sg11_polymosphism.activity1.md)
+
+[View my SG 11: Polymorphism Activity 2](quarter2/sg11_polymorphism.activity2.md)
