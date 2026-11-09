@@ -8,7 +8,7 @@
 ## 2. Python Code:
   CODE:
   
-  [View Python Code: Activity 2](quarter2/sg11_polymorphism.activity2.py)
+  [View Python Code: Activity 2](sg11_polymorphism.activity2.py)
 
   OUTPUT:
   
